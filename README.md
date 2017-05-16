@@ -10,7 +10,7 @@
 
 
 
-** On the first page which is bio.html, users are able to submit their basic information. once the user submit his/her information, their info will be sent to server.Later on , user should be able to login with their email address. Database will use user's email address as primary (unique) key. 
+** On the first page which is bio.html, users are able to submit their basic information. once the user submits his/her information, their info will be sent to server.Later on , user should be able to login with their email address. Database will use user's email address as primary (unique) key. 
 
 **On the group.html, Because users will only see this page after login or registration, server will retrieve personal data of the certain user and post the info on the group page. There would be one leader user in each group, which is used as primary key in the group table in the database.
 

@@ -16,5 +16,5 @@
 
 **On the stats.html, users will be able to see various statistics. For instance, how long the user run in a week, how long they run in each day. As it is a web based app, so users have to open the browse to let the app record their data, like the distance they run. Google map api should be implemented, as it will be essential to record distance.
 
-**On the home page, it should be a general overview.
+**On the home page(index.html), it should be a general overview.
 
